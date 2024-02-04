@@ -16,8 +16,7 @@ Feel free to explore my repositories and projects.
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+
 ## Tech Stack
 
 Here are some of the technologies and tools I'm familiar with:
