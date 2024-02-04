@@ -31,49 +31,39 @@ I'm a programming enthusiast and currently studying DevOps.
 
 ### Cloud
 
-![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,azure&perline=3)
+![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,azure)
 
 ### AI/ML
 
-![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,seaborn&perline=3)
+![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,seaborn)
 
 ### DevOps
 
-![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins&perline=3)
+![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins)
 
 
 ### Front-end
 
-![My Skills](https://skillicons.dev/icons?i=react,html,css,flutter,tailwind&perline=3)
+![My Skills](https://skillicons.dev/icons?i=react,html,css,flutter,tailwind)
 
 
 ### Back-end
 
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,django,flask&perline=3)
+![My Skills](https://skillicons.dev/icons?i=nodejs,django,flask)
 
 ### IoT
 
-![My Skills](https://skillicons.dev/icons?i=arduino,dynamodb,azure&perline=3)
+![My Skills](https://skillicons.dev/icons?i=arduino,dynamodb,azure)
 
 ### Programming Language 
 
-  
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,javascript&perline=3)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,javascript,swift)
 
 ## Connect with me
 
-<a href="https://linkedin.com/in/kai-ning-1289b5211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kai-ning-1289b5211" height="30" width="40" /></a>
-<a href="https://kaggle.com/lemonkai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lemonkai" height="30" width="40" /></a>
-<a href="https://instagram.com/kaikai_blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaikai_blog" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/cyma140052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cyma140052" height="30" width="40" /></a>
-<a href="https://www.lemonkai.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="lemonkai.com" height="30" width="40" /></a>
-</p>
-
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kai-ning-1289b5211)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kaikai_blog/)
-
-
 
 
 Feel free to connect and say hello! I'm open to opportunities and collaborations.
