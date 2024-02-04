@@ -18,4 +18,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_SORT: POPULAR
-          CREDLY_USER: ningtongqi@gmail.com
+          CREDLY_USER: tongqi-ning.1dcb15f1
