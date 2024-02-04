@@ -14,6 +14,7 @@ Feel free to explore my repositories and projects.
 - 🌱 I'm constantly exploring new technologies and tools in the DevOps ecosystem.
 - ⚡ Fun fact: I love to participate in coding challenges and hackathons.
 
+## My Badge
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/4fd43e89-69c7-4ffc-bc98-13838182fb52 "AWS Certified Cloud Practitioner")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/52ef9a61-d5b3-4672-ad62-9d83e81e43b4 "AWS Certified Solutions Architect – Associate")
