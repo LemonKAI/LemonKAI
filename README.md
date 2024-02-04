@@ -2,7 +2,9 @@
 # Hi there! 👋 I'm KAI.
 
 I'm a programming enthusiast and currently studying DevOps. 
+
 Welcome to my GitHub profile! 
+
 Feel free to explore my repositories and projects.
 
 ## About Me
@@ -11,6 +13,9 @@ Feel free to explore my repositories and projects.
 - 📚 Currently, I'm focused on learning and mastering DevOps practices.
 - 🌱 I'm constantly exploring new technologies and tools in the DevOps ecosystem.
 - ⚡ Fun fact: I love to participate in coding challenges and hackathons.
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## Tech Stack
 
