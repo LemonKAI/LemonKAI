@@ -5,13 +5,16 @@ on:
   workflow_dispatch: # run manually
   schedule:
     # Runs at 1am UTC on Sunday
-    - cron: "0 1 * * 0"
+    - cron: "0 0 * * *"
+permissions:
+    contents: write # To write the generated contents to the readme
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.3.0
+        uses: pemtajo/badge-readme@main
         with:
           CREDLY_SORT: POPULAR
