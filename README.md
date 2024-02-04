@@ -27,7 +27,7 @@ Here are some of the technologies and tools I'm familiar with:
 
 I'm always interested in connecting with fellow developers, discussing new ideas, and collaborating on exciting projects. You can reach out to me via:
 
-- 🌐 [LinkedIn](www.linkedin.com/in/kai-ning-1289b5211)
-- 📧 [Email](ningtongqi@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kai-ning-1289b5211)
+
 
 Feel free to connect and say hello! I'm open to opportunities and collaborations.
