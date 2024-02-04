@@ -3,12 +3,6 @@
 
 I'm a programming enthusiast and currently studying DevOps. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonkai&label=Profile%20views&color=0e75b6&style=flat" alt="lemonkai" /> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## About Me
 
 - 💻 I'm passionate about all things programming and automation.
@@ -27,7 +21,7 @@ I'm a programming enthusiast and currently studying DevOps.
 [![Big Data Foundations - Level 2](https://images.credly.com/size/110x110/images/b4e6cd62-b23f-4166-88a4-37f7f636efc4/Big_Data_Found_Level_2_-_CC_v2.png)](http://www.credly.com/badges/b7883008-5216-4e9f-ada3-cdff22251983 "Big Data Foundations - Level 2")
 <!--END_SECTION:badges-->
 
-<h2 align="left">Languages and Tools:</h2>
+## Languages and Tools:
 
 ### Cloud
 
