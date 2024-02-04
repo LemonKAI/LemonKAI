@@ -48,7 +48,7 @@ I'm a programming enthusiast and currently studying DevOps.
 
 ### IoT
 
-![My Skills](https://skillicons.dev/icons?i=arduino,dynamodb,azure)
+![My Skills](https://skillicons.dev/icons?i=arduino)
 
 ### Programming Language 
 
