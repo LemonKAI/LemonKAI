@@ -3,6 +3,8 @@
 
 I'm a programming enthusiast and currently studying DevOps. 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/LemonKAI?theme=dark)
+
 ## About Me
 
 - 💻 I'm passionate about all things programming and automation.
