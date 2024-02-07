@@ -21,6 +21,7 @@ I'm a programming enthusiast and currently studying DevOps.
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/fb6d1d15-bee5-4a24-af04-31e76585a698 "Docker Essentials: A Developer Introduction")
 [![Spark - Level 1](https://images.credly.com/size/110x110/images/9fd5ad20-ba42-4213-848b-2a99b2778a11/Spark_Level_1_ver_2_-_CC_-_2019.png)](http://www.credly.com/badges/dc0979ed-2e9d-417e-b769-c6c2f36b6e43 "Spark - Level 1")
 [![Big Data Foundations - Level 2](https://images.credly.com/size/110x110/images/b4e6cd62-b23f-4166-88a4-37f7f636efc4/Big_Data_Found_Level_2_-_CC_v2.png)](http://www.credly.com/badges/b7883008-5216-4e9f-ada3-cdff22251983 "Big Data Foundations - Level 2")
+[![Linux Commands & Shell Scripting Essentials V2](https://images.credly.com/size/110x110/images/e6d29f38-2e60-4a9c-8c47-ebf02472bf77/image.png)](http://www.credly.com/badges/e9113e3c-d314-4d15-b4bc-0305706dcdd2 "Linux Commands & Shell Scripting Essentials V2")
 <!--END_SECTION:badges-->
 
 ## Languages and Tools:
