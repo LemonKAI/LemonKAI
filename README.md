@@ -25,6 +25,7 @@ I'm a programming enthusiast and currently studying DevOps.
 [![Big Data Foundations - Level 2](https://images.credly.com/size/110x110/images/b4e6cd62-b23f-4166-88a4-37f7f636efc4/Big_Data_Found_Level_2_-_CC_v2.png)](http://www.credly.com/badges/b7883008-5216-4e9f-ada3-cdff22251983 "Big Data Foundations - Level 2")
 [![DevOps Essentials](https://images.credly.com/size/110x110/images/7fa91a10-3cbe-48fb-bd0e-c3e4cf27065f/image.png)](http://www.credly.com/badges/d783a5ea-4918-4b12-9144-27dc96409ee7 "DevOps Essentials")
 [![Git and GitHub Essentials](https://images.credly.com/size/110x110/images/23859131-d0ff-4f44-900f-bac86165b941/image.png)](http://www.credly.com/badges/c7fe7ab7-5a3e-47c3-8108-826ec6984997 "Git and GitHub Essentials")
+[![Python Project for AI and Application Development](https://images.credly.com/size/110x110/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png)](http://www.credly.com/badges/38579987-afcf-4260-aff6-7af12483d7b6 "Python Project for AI and Application Development")
 [![Linux Commands & Shell Scripting Essentials V2](https://images.credly.com/size/110x110/images/e6d29f38-2e60-4a9c-8c47-ebf02472bf77/image.png)](http://www.credly.com/badges/e9113e3c-d314-4d15-b4bc-0305706dcdd2 "Linux Commands & Shell Scripting Essentials V2")
 <!--END_SECTION:badges-->
 
