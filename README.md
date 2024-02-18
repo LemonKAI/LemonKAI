@@ -28,6 +28,7 @@ I'm a programming enthusiast and currently studying DevOps.
 [![Git and GitHub Essentials](https://images.credly.com/size/110x110/images/23859131-d0ff-4f44-900f-bac86165b941/image.png)](http://www.credly.com/badges/c7fe7ab7-5a3e-47c3-8108-826ec6984997 "Git and GitHub Essentials")
 [![Python Project for AI and Application Development](https://images.credly.com/size/110x110/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png)](http://www.credly.com/badges/38579987-afcf-4260-aff6-7af12483d7b6 "Python Project for AI and Application Development")
 [![Container & Kubernetes Essentials V2](https://images.credly.com/size/110x110/images/5e15f28e-93cb-4e91-9813-febd4b72c53f/image.png)](http://www.credly.com/badges/f1f312df-6958-429a-827b-9b1c70804cca "Container & Kubernetes Essentials V2")
+[![Front-end Development with React](https://images.credly.com/size/110x110/images/9dcdc294-79a6-47e5-a769-708c29c7c497/image.png)](http://www.credly.com/badges/3ceb7bad-ce1f-46f8-a19e-7fe9ca365e4a "Front-end Development with React")
 [![Linux Commands & Shell Scripting Essentials V2](https://images.credly.com/size/110x110/images/e6d29f38-2e60-4a9c-8c47-ebf02472bf77/image.png)](http://www.credly.com/badges/e9113e3c-d314-4d15-b4bc-0305706dcdd2 "Linux Commands & Shell Scripting Essentials V2")
 <!--END_SECTION:badges-->
 
