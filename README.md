@@ -36,6 +36,7 @@ I'm a programming enthusiast and currently studying DevOps.
 [![Developing Applications with SQL, Databases, and Django](https://images.credly.com/size/110x110/images/a3ff2154-3ad0-4bbf-8405-c84e777bdc9a/Developing_Applications_with_SQL__Databases__and_Django.png)](http://www.credly.com/badges/a45ca701-a785-4039-9606-a00fd83b283b "Developing Applications with SQL, Databases, and Django")
 [![Application Development using Microservices and Serverless](https://images.credly.com/size/110x110/images/973136f8-09b5-439a-a309-45041c83c756/image.png)](http://www.credly.com/badges/2fa4389e-a032-45c6-953d-9f2891b4da3a "Application Development using Microservices and Serverless")
 [![Introduction to Test Driven Development](https://images.credly.com/size/110x110/images/a2701608-9d0d-46c1-b906-7f90b719f61a/image.png)](http://www.credly.com/badges/9a691ee0-02cd-4a61-a87c-5061d2d94583 "Introduction to Test Driven Development")
+[![Monitoring and Observability for Development and DevOps](https://images.credly.com/size/110x110/images/d1ab3335-73d9-484a-9e81-e526cf94c068/image.png)](http://www.credly.com/badges/d43cf0dd-29ef-49da-9ebf-da3449adc206 "Monitoring and Observability for Development and DevOps")
 <!--END_SECTION:badges-->
 
 ## Languages and Tools:
