@@ -35,8 +35,10 @@ I'm a programming enthusiast and currently studying DevOps.
 [![Node and Express Essentials](https://images.credly.com/size/110x110/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png)](http://www.credly.com/badges/d1408bfb-8024-44f9-ae05-ceb9b34ac851 "Node and Express Essentials")
 [![Developing Applications with SQL, Databases, and Django](https://images.credly.com/size/110x110/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png)](http://www.credly.com/badges/a45ca701-a785-4039-9606-a00fd83b283b "Developing Applications with SQL, Databases, and Django")
 [![Application Development using Microservices and Serverless](https://images.credly.com/size/110x110/images/eaaf4a45-b93e-41d1-91d3-d331c6210314/image.png)](http://www.credly.com/badges/2fa4389e-a032-45c6-953d-9f2891b4da3a "Application Development using Microservices and Serverless")
+[![Verify Privilege Sales Foundation](https://images.credly.com/size/110x110/images/afb48a45-ee47-4744-85f5-eae787ddb5c6/image.png)](http://www.credly.com/badges/6d04834b-8f87-446d-a83a-d24c11f6253d "Verify Privilege Sales Foundation")
 [![Introduction to Test Driven Development](https://images.credly.com/size/110x110/images/63ed678c-4f4d-435d-b3af-e8d0c94627a2/image.png)](http://www.credly.com/badges/9a691ee0-02cd-4a61-a87c-5061d2d94583 "Introduction to Test Driven Development")
 [![DevOps Capstone](https://images.credly.com/size/110x110/images/a856d3ba-1aa7-4e93-8c15-8d65cec6368d/image.png)](http://www.credly.com/badges/fd5f5c9b-c500-4abb-9f31-b611c4d5616f "DevOps Capstone")
+[![Verify Privilege Technical Sales Intermediate](https://images.credly.com/size/110x110/images/a95f46b0-e813-4adc-8a5e-cb8ccaccd70d/image.png)](http://www.credly.com/badges/e1a5407e-26e4-4b22-ba43-586b84edf1b1 "Verify Privilege Technical Sales Intermediate")
 [![Monitoring and Observability for Development and DevOps](https://images.credly.com/size/110x110/images/d1ab3335-73d9-484a-9e81-e526cf94c068/image.png)](http://www.credly.com/badges/d43cf0dd-29ef-49da-9ebf-da3449adc206 "Monitoring and Observability for Development and DevOps")
 <!--END_SECTION:badges-->
 
